@@ -1,14 +1,3 @@
-Terkait dengan keamanan pada GMAIL yang melarang pengiriman file berekstensi JAR
-dan JS (javascript), saya putuskan untuk menaruh semua file proyek yang saya kirimkan
-pada file hosting google drive.
-
-Mohon untuk dapat mengunduhnya pada link google drive berikut :
-https://drive.google.com/drive/folders/0B8HryxuJfrV5c2pvMmFFMVhzNEk?usp=sharing
-
-Terima kasih.
-
-------
-
 Penjelasan Aplikasi : Sistem Informasi Kantin TC
 
 Sistem informasi kantin teknik informatika ITS yang berfungsi untuk membantu proses administrasi dan transaksi
@@ -20,12 +9,6 @@ fitur :
 5. buka dan tutup kantin
 6. proses transaksi
 7. laporan keuntungan perbulan, dan laporan administrasi lainnya
-
-
-Tim Pengembang :
-Rahmat Nazali S (Leader & Developer)
-Ilham Gurat Adillion
-Fendy
 
 Requirement :
 - xampp
