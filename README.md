@@ -7,7 +7,7 @@ A fuly functioning Cafetaria Information System build with CodeIgniter that desi
 
 
 ## Getting Started
-Make sure you have all the requirements in [official CodeIgniter requirements](/kantintc/readme.srt)
+Make sure you have all the requirements in [official CodeIgniter requirements](/kantintc/readme.rst)
 ### Installing
 - Put all the folder ```kantintc``` on your web server. You might also change the name.
 - Import the database by executing the [dump](/dump_kantintc.sql)
