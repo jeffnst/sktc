@@ -1,9 +1,9 @@
 # Sistem Informasi Kantin TC (SKTC) | _Cafetaria Information System_
 A fuly functioning Cafetaria Information System build with CodeIgniter that designed to manage food sales on local Cafetaria/shop
 
-# Features
-## Guest user
-## Administrator
+## Features
+### Guest user
+### Administrator
 
 
 ## Getting Started
