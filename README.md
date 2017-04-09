@@ -21,7 +21,7 @@ Make sure you have all the requirements in [official CodeIgniter requirements](/
 * **Rahmat Nazali S** - [LinkedIn](https://www.linkedin.com/in/rahmat-nazali-salimi-43391a13b/) - [HackerRank](https://www.hackerrank.com/rahmatNazali)
 * **Ilham Gurat Adillion** - [LinkedIn](https://www.linkedin.com/in/ilham-gurat-adillion-0b4b46133/)
 * **Afif Ishamsyah H** - [Facebook](https://www.facebook.com/afif.ishamsyah.h)
-* **Muhammad Rizki Prawira Atmaja** - [LinkedIn](https://www.linkedin.com/in/mrizkip/)
+* **Muhammad Rizki Prawiraatmaja** - [LinkedIn](https://www.linkedin.com/in/mrizkip/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE) file for details
