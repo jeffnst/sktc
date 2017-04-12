@@ -22,7 +22,7 @@ A fuly functioning Cafetaria Information System build with CodeIgniter that desi
 - Put all the folder ```kantintc``` on your web server. You might also change the name.
 - Create a new database (name it as you wish, but the default is ```kantin```)
 - Import the database by executing the [dump](/dump_kantintc.sql). Note: this dump designed to include some data for ease the testing. A truncate table operation would be good if you want to use empty database, or just modify the dump so that it wont insert any data.
-- Adjust your [/application/config/database.php](/application/config/database.php) files to match with your current database setting
+- Adjust your [/application/config/database.php](/kantintc/application/config/database.php) files to match with your current database setting
 - Set username and password for login that can be managed directly at table ```user``` on the database, while default username and password for login are as follows:
   - username : adminkantin
   - password : ibu kantin
